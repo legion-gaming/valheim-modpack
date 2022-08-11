@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "1.0.9",
+    "version_number": "1.0.10",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "aedenthorn_mods-InstantMonsterLootDrop-0.4.0",
