@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "1.0.13",
+    "version_number": "1.0.14",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "aedenthorn_mods-InstantMonsterLootDrop-0.4.0",
@@ -21,7 +21,7 @@
         "GoldenJude-Judes_Equipment-2.2.0",
         "Huntardys-EpicValheimsAdditions-1.8.3",
         "JereKuusela-Smoke_Collision-1.3.0",
-        "JereKuusela-Server_devcommands-1.25.0",
+        "JereKuusela-Server_devcommands-1.26.0",
         "k942-MassFarming-1.3.0",
         "kassent-SkillBasedCarryweight-1.0.0",
         "KGvalheim-MagicOverhaul-1.5.594",
@@ -45,7 +45,7 @@
         "RandyKnapp-EquipmentAndQuickSlots-2.0.15",
         "RandyKnapp-ExtendedItemDataFramework-1.0.7",
         "remmiz-SimpleRecycling_Fixed-0.0.15",
-        "Smoothbrain-ServerCharacters-1.2.8",
+        "Smoothbrain-ServerCharacters-1.2.9",
         "Smoothbrain-TargetPortal-1.1.3",
         "Tekla-ColorfulSigns-5.4.1604",
         "Tekla-JsonDotNet-13.0.1",
