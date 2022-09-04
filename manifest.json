@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "1.0.16",
+    "version_number": "1.0.17",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "aedenthorn_mods-InstantMonsterLootDrop-0.4.0",
@@ -27,7 +27,7 @@
         "KGvalheim-MagicOverhaul-1.5.594",
         "MaGic-Quick_Deposit-1.0.1",
         "MathiasDecrock-SeedTotem-4.2.0",
-        "MonsterLabZ-MonsterLabZ-2.4.4",
+        "MonsterLabZ-MonsterLabZ-2.5.0",
         "MSchmoecker-MultiUserChest-0.2.2",
         "MSchmoecker-VNEI-0.7.3",
         "mtnewton-ItemStacks-1.2.0",
@@ -46,7 +46,7 @@
         "RandyKnapp-ExtendedItemDataFramework-1.0.7",
         "remmiz-SimpleRecycling_Fixed-0.0.15",
         "Smoothbrain-ServerCharacters-1.2.9",
-        "Smoothbrain-TargetPortal-1.1.3",
+        "Smoothbrain-TargetPortal-1.1.4",
         "Tekla-ColorfulSigns-5.4.1604",
         "Tekla-JsonDotNet-13.0.1",
         "thedefside-BetterUI_Reforged-2.2.1",
@@ -55,7 +55,7 @@
         "thedefside-RecipeCustomizer-0.0.2",
         "thedefside-WeaponCustomizer-0.0.1",
         "ValheimModding-HookGenPatcher-0.0.3",
-        "ValheimModding-Jotunn-2.7.7",
+        "ValheimModding-Jotunn-2.7.8",
         "ValheimPlus-ValheimPlus-9.9.8",
         "virtuaCode-TrashItems-1.2.4",
         "WiseHorror-Veinmine-1.2.5"
