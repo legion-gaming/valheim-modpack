@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "1.0.17",
+    "version_number": "1.0.18",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "aedenthorn_mods-InstantMonsterLootDrop-0.4.0",
@@ -27,7 +27,7 @@
         "KGvalheim-MagicOverhaul-1.5.594",
         "MaGic-Quick_Deposit-1.0.1",
         "MathiasDecrock-SeedTotem-4.2.0",
-        "MonsterLabZ-MonsterLabZ-2.5.0",
+        "MonsterLabZ-MonsterLabZ-2.5.1",
         "MSchmoecker-MultiUserChest-0.2.2",
         "MSchmoecker-VNEI-0.7.3",
         "mtnewton-ItemStacks-1.2.0",
