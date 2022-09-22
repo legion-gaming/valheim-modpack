@@ -1,14 +1,14 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "1.0.21",
+    "version_number": "1.0.22",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "aedenthorn_mods-InstantMonsterLootDrop-0.4.0",
         "AeehyehssReeper-ChaosArmor-9.0.14",
         "ASharpPen-Custom_Raids-1.6.2",
         "ASharpPen-Drop_That-2.3.3",
-        "ASharpPen-Spawn_That-1.1.1",
+        "ASharpPen-Spawn_That-1.1.2",
         "ASharpPen-This_Goes_Here-2.1.1",
         "Azumatt-Official_BepInEx_ConfigurationManager-17.0.0",
         "BasilPanda-NoStamCosts-0.1.2",
@@ -55,7 +55,7 @@
         "thedefside-RecipeCustomizer-0.0.2",
         "thedefside-WeaponCustomizer-0.0.1",
         "ValheimModding-HookGenPatcher-0.0.3",
-        "ValheimModding-Jotunn-2.7.8",
+        "ValheimModding-Jotunn-2.7.9",
         "ValheimPlus-ValheimPlus-9.9.8",
         "virtuaCode-TrashItems-1.2.4",
         "WiseHorror-Veinmine-1.2.5"
