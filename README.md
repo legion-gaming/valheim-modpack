@@ -1,8 +1,15 @@
 # Legion Gaming Modpack
 
-Private modpack for Legion Gaming private server.
+Modpack for Legion Gaming private server.
 
 # Changelog
+
+## Release 1.0.29
+
+This release updates dependencies
+
+* ServerCharacters from version 1.3.0 to 1.3.1
+* Spawn_That from version 1.1.3 to 1.1.4
 
 ## Release 1.0.28
 
