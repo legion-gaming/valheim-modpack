@@ -4,6 +4,14 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 1.0.30
+
+This release replaces alpha release of ValheimPlus with 9.9.9 release and updates dependencies
+
+* ChaosArmor from 9.0.17 to 10.0.2
+* MonsterLabz from 2.7.0 to 2.8.0
+* ValheimPlus from alpha to 9.9.9
+
 ## Release 1.0.29
 
 This release updates dependencies
