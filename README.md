@@ -4,6 +4,12 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 2.0.0
+
+This release moves EpicLoot and Journey_To_Valhalla into my new EpicJourney mod and updates dependencies
+
+* VNEI from 0.7.3 to 0.7.4
+
 ## Release 1.0.31
 
 This release updates dependencies
