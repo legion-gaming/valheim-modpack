@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 2.0.1
+
+This release adds EquipmentAndQuickSlots back. It was mistakenly removed from the previous release.
+
 ## Release 2.0.0
 
 This release moves EpicLoot and Journey_To_Valhalla into my new EpicJourney mod and updates dependencies
