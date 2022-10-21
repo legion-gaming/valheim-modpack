@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 2.0.2
+
+This release adds some of JTV's mods as explicit dependencies to keep them up to date.
+
 ## Release 2.0.1
 
 This release adds EquipmentAndQuickSlots back. It was mistakenly removed from the previous release.
