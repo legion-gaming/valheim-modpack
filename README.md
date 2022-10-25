@@ -4,6 +4,12 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 2.0.3
+
+This release updates dependencies
+
+* ChaosArmor from 10.0.3 to 10.0.5
+
 ## Release 2.0.2
 
 This release adds some of JTV's mods as explicit dependencies to keep them up to date.

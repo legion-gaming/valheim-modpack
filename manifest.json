@@ -1,11 +1,11 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "2.0.2",
+    "version_number": "2.0.3",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "aedenthorn_mods-InstantMonsterLootDrop-0.4.0",
-        "AeehyehssReeper-ChaosArmor-10.0.3",
+        "AeehyehssReeper-ChaosArmor-10.0.5",
         "ASharpPen-Spawn_That-1.1.4",
         "Azumatt-Official_BepInEx_ConfigurationManager-17.0.0",
         "BasilPanda-NoStamCosts-0.1.2",
