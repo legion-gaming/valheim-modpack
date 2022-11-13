@@ -1,8 +1,12 @@
 # Legion Gaming Modpack
 
-Modpack for Legion Gaming private server.
+Modpack for Legion Gaming private server. (Season 1)
 
 # Changelog
+
+## Release 3.0.0
+
+This is the first release in the form of a "season." The season is still in private beta while we work things out, but the next release will open the server up to the public. Stay tuned!
 
 ## Release 2.0.3
 
