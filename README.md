@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server. (Season 1)
 
 # Changelog
 
+## Release 3.0.3
+
+This release fixes an issue with a proprietary plugin specific to the Legion Gaming private server. Open beta coming soon!
+
 ## Release 3.0.2
 
 This release adds a proprietary plugin specific to the Legion Gaming private server. Open beta coming soon!

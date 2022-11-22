@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server. (Season 1)",
-    "version_number": "3.0.2",
+    "version_number": "3.0.3",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "thedefside-Journey_To_Valhalla-1.1.3",
