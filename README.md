@@ -1,8 +1,12 @@
 # Legion Gaming Modpack
 
-Modpack for Legion Gaming private server. (Season 1)
+Modpack for Legion Gaming private server.
 
 # Changelog
+
+## Release 4.0.0
+
+Pruned out non-functioning plugins as a result of the Mistlands update. Also, I've decided to keep my server private for friends only for the moment.
 
 ## Release 3.0.4
 
