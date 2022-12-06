@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 4.0.1
+
+Pruned out more non-functioning plugins as a result of the Mistlands update.
+
 ## Release 4.0.0
 
 Pruned out non-functioning plugins as a result of the Mistlands update. Also, I've decided to keep my server private for friends only for the moment.
