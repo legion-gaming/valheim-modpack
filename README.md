@@ -4,6 +4,12 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 4.0.2
+
+This release updates dependencies
+
+* ConversionSizeAndSpeed from 1.0.6 to 1.0.7
+
 ## Release 4.0.1
 
 Pruned out more non-functioning plugins as a result of the Mistlands update.
