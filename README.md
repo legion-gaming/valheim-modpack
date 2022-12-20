@@ -4,6 +4,17 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 4.0.3
+
+This release updates dependencies
+
+* OdinsQOL from 0.9.5 to 0.9.6
+* WardIsLove from 3.0.8 to 3.0.9
+* Marketplace_And_Server_NPCs_Revamped from 8.2.0 to 8.2.1
+* Server_devcommands from 1.38.0 to 1.40.0
+* SouthsilArmor from 2.3.0 to 2.4.1
+* Jotunn from 2.10.0 to 2.10.1
+
 ## Release 4.0.2
 
 This release updates dependencies
