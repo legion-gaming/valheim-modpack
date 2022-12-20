@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "4.0.3",
+    "version_number": "4.0.4",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "Smoothbrain-ConversionSizeAndSpeed-1.0.7",
@@ -22,6 +22,7 @@
         "castix-FloatingItems-1.0.0",
         "Mydayyy-ServerSideMap-1.3.7",
         "ValheimModding-HookGenPatcher-0.0.3",
-        "ValheimModding-Jotunn-2.10.1"
+        "ValheimModding-Jotunn-2.10.1",
+        "Mokutan-MassFarming-1.4.0"
     ]
 }
