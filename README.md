@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 4.0.5
+
+Added TeleportEverything by OdinPlus.
+
 ## Release 4.0.4
 
 Added MassFarming by Mokutan plugin.
