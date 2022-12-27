@@ -4,6 +4,14 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 4.0.6
+
+This release updates dependencies
+
+* InstantMonsterLootDrop from 0.4.0 to 0.5.0
+* ConversionSizeAndSpeed from 1.0.7 to 1.0.9
+* MassFarming from 1.4.0 to 1.5.0
+
 ## Release 4.0.5
 
 Added TeleportEverything by OdinPlus.
