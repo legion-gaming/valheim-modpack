@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 5.0.1
+
+This release adds Expand_World as a dependency.
+
 ## Release 5.0.0
 
 This release is an overhaul for the new Mistlands update bringing back plugins that weren't working before.

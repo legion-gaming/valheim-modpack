@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "5.0.0",
+    "version_number": "5.0.1",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.1901",
@@ -12,6 +12,7 @@
         "MSchmoecker-MultiUserChest-0.3.0",
         "southsil-SouthsilArmor-2.4.1",
         "Azumatt-Official_BepInEx_ConfigurationManager-17.0.0",
+        "JereKuusela-Expand_World-1.17.0",
         "JereKuusela-Server_devcommands-1.40.0",
         "JereKuusela-Server_Sync_Fix-1.2.0",
         "JereKuusela-Smoke_Collision-1.4.0",
