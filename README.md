@@ -4,6 +4,27 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 5.1.0
+
+This release updates dependencies, removes Server_Sync_Fix-1.2.0 for incompatibilities with latest version of OdinsQOL,
+removes ExtendedItemDataFramework as it is no longer required by EpicLoot,
+and adds MagicHeim-1.1.0
+
+* Jotunn from 2.10.1 to 2.10.3
+* MultiUserChest from 0.3.0 to 0.4.1
+* SouthsilArmor from 2.4.1 to 2.5.0
+* Expand_World from 1.17.0 to 1.21.0
+* Server_devcommands from 1.40.0 to 1.41.0
+* Marketplace_And_Server_NPCs_Revamped frfom 8.2.1 to 8.2.5
+* TeleportEverything-2.1.0
+* Spawn_That from 1.2.1 to 1.2.2
+* Drop_That from 2.3.3 to 2.3.5
+* Custom_Raids from 1.6.3 to 1.7.1
+* ChaosArmor from 10.4.1 to 10.5.2
+* MonsterLabZ from 2.9.1 to 2.9.3
+* Journey_To_Valhalla from 1.1.6 to 1.1.9
+* EpicLoot from 0.9.2 to 0.9.8
+
 ## Release 5.0.1
 
 This release adds Expand_World as a dependency.
