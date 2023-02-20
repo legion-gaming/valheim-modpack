@@ -4,6 +4,18 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 5.1.1
+
+This release updates dependencies
+
+* Jotunn from 2.10.3 to 2.10.4
+* MultiUserChest from 0.4.1 to 0.4.3
+* SouthsilArmor from 2.5.0 to 2.6.0
+* Expand_World from 1.21.0 to 1.22.0
+* Marketplace_And_Server_NPCs_Revamped frfom 8.2.5 to 8.2.61
+* MonsterLabZ from 2.9.3 to 2.9.7
+* MagicHeim from 1.1.0 to 1.2.1
+
 ## Release 5.1.0
 
 This release updates dependencies, removes Server_Sync_Fix-1.2.0 for incompatibilities with latest version of OdinsQOL,
