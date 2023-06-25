@@ -4,6 +4,10 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 6.0.0
+
+This release moves all quality of life mods to LegionGaming_QOL, updates dependencies, and removes some plugins no longer used
+
 ## Release 5.1.1
 
 This release updates dependencies
