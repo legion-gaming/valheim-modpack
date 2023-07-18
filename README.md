@@ -4,6 +4,15 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 6.0.1
+
+This release updates dependencies and moves some dependencies over from Legion-LegionGaming_QOL
+
+* ASharpPen-Drop_That from 2.3.7 to 2.3.8
+* Legion-LegionGaming_QOL from 1.0.0 to 1.0.1
+* ValheimModding-Jotunn from 2.12.1 to 2.12.4
+
+
 ## Release 6.0.0
 
 This release moves all quality of life mods to LegionGaming_QOL, updates dependencies, and removes some plugins no longer used
@@ -16,7 +25,7 @@ This release updates dependencies
 * MultiUserChest from 0.4.1 to 0.4.3
 * SouthsilArmor from 2.5.0 to 2.6.0
 * Expand_World from 1.21.0 to 1.22.0
-* Marketplace_And_Server_NPCs_Revamped frfom 8.2.5 to 8.2.61
+* Marketplace_And_Server_NPCs_Revamped from 8.2.5 to 8.2.61
 * MonsterLabZ from 2.9.3 to 2.9.7
 * MagicHeim from 1.1.0 to 1.2.1
 
@@ -31,7 +40,7 @@ and adds MagicHeim-1.1.0
 * SouthsilArmor from 2.4.1 to 2.5.0
 * Expand_World from 1.17.0 to 1.21.0
 * Server_devcommands from 1.40.0 to 1.41.0
-* Marketplace_And_Server_NPCs_Revamped frfom 8.2.1 to 8.2.5
+* Marketplace_And_Server_NPCs_Revamped from 8.2.1 to 8.2.5
 * TeleportEverything-2.1.0
 * Spawn_That from 1.2.1 to 1.2.2
 * Drop_That from 2.3.3 to 2.3.5
