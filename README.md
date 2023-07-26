@@ -4,6 +4,13 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 6.0.2
+
+This release updates dependencies
+
+* JereKuusela-Server_devcommands from 1.54.0 to 1.55.0
+* Legion-LegionGaming_QOL from 1.0.1 to 1.0.2
+
 ## Release 6.0.1
 
 This release updates dependencies and moves some dependencies over from Legion-LegionGaming_QOL

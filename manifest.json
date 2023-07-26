@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "6.0.1",
+    "version_number": "6.0.2",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "denikson-BepInExPack_Valheim-5.4.2105",
@@ -16,8 +16,8 @@
         "GoldenJude-Blacksmiths_tools-2.0.3",
         "GoldenJude-Judes_Equipment-2.2.3",
         "Huntardys-EpicValheimsAdditions-1.9.4",
-        "JereKuusela-Server_devcommands-1.54.0",
-        "Legion-LegionGaming_QOL-1.0.1",
+        "JereKuusela-Server_devcommands-1.55.0",
+        "Legion-LegionGaming_QOL-1.0.2",
         "MonsterLabZ-MonsterLabZ-3.0.2",
         "Mydayyy-ServerSideMap-1.3.8",
         "neurodr0me-RRRCore-2.15.0",
