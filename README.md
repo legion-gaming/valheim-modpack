@@ -4,6 +4,15 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 7.0.0
+
+This release updates dependencies
+
+* Legion-LegionGaming_QOL-2.0.0
+* JereKuusela-Server_devcommands-1.84.0
+* Mydayyy-ServerSideMap-1.3.11
+* RandyKnapp-EpicLoot-0.10.5
+
 ## Release 6.0.2
 
 This release updates dependencies
