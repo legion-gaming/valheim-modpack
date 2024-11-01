@@ -4,6 +4,16 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 7.0.2
+
+This release updates dependencies
+
+* denikson-BepInExPack_Valheim-5.4.2202
+* Legion-LegionGaming_QOL-2.0.1
+* JereKuusela-Server_devcommands-1.84.0
+* Mydayyy-ServerSideMap-1.3.11
+* RandyKnapp-EpicLoot-0.10.5
+
 ## Release 7.0.1
 
 This release updates dependencies
