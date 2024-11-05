@@ -4,6 +4,17 @@ Modpack for Legion Gaming private server.
 
 # Changelog
 
+## Release 8.0.0
+
+* Alpus-NorseDemigods-1.4.7
+* blacks7ar-MagicPlugin-2.0.6
+* denikson-BepInExPack_Valheim-5.4.2202
+* Legion-LegionGaming_QOL-2.0.4
+* JereKuusela-Server_devcommands-1.84.0
+* Therzie-Monstrum-1.4.4
+* Therzie-Warfare-1.8.0
+* Therzie-Wizardry-1.1.2
+
 ## Release 7.0.4
 
 * denikson-BepInExPack_Valheim-5.4.2202
