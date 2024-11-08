@@ -1,7 +1,7 @@
 {
     "name": "LegionGaming",
     "description": "Modpack for Legion Gaming private server.",
-    "version_number": "8.0.0",
+    "version_number": "8.0.1",
     "website_url": "https://github.com/legion-gaming/valheim-modpack",
     "dependencies": [
         "Alpus-NorseDemigods-1.4.7",
@@ -9,8 +9,8 @@
         "denikson-BepInExPack_Valheim-5.4.2202",
         "Legion-LegionGaming_QOL-2.0.4",
         "JereKuusela-Server_devcommands-1.84.0",
-        "Therzie-Monstrum-1.4.4",
-        "Therzie-Warfare-1.8.0",
-        "Therzie-Wizardry-1.1.2"
+        "Therzie-Monstrum-1.4.5",
+        "Therzie-Warfare-1.8.1",
+        "Therzie-Wizardry-1.1.3"
     ]
 }
